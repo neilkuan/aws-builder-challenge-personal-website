@@ -25,7 +25,7 @@ A beginner-friendly website template for [AWS Builder Challenge #2](https://buil
    - Replace "Your Name" with your actual name (appears in 3 places)
 
 2. **Add your AWS Builder profile** 🔗:
-   - Replace `https://builder.aws.com/community/@ana` with your actual profile URL
+   - Replace `https://builder.aws.com/community/@youralias` with your actual profile URL
    - Get your profile at: [https://community.aws/builderid](https://community.aws/builderid?trk=86c76c09-e8f4-4138-badc-604ce7bc5d77&sc_channel=el)
 
 3. **Add your photo** 📸:
